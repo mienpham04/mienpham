@@ -1,11 +1,8 @@
 # Hi, I'm Mien! 👋
 
-🎓 **Bachelor of Science in Computer Science**  
-*Minor in Data Science*  
-Gettysburg College | Expected May 2026
+🎓 **Bachelor of Science in Computer Science** @ Gettysburg College
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MienPham-blue)](https://www.linkedin.com/in/mien-pham)  
-[![GitHub](https://img.shields.io/badge/GitHub-mienpham04-black)](https://github.com/mienpham04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MienPham-blue)](https://www.linkedin.com/in/mien-pham)
 
 ---
 
